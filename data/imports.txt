@@ -1,0 +1,16 @@
+MSVFW32.dll!DrawDibDraw
+AVIFIL32.dll!AVIStreamInfoA
+iphlpapi.dll!GetAdaptersInfo
+WINMM.dll!midiStreamOut
+WS2_32.dll!ordinal:115
+KERNEL32.dll!GetTimeZoneInformation
+USER32.dll!wvsprintfA
+GDI32.dll!CreateSolidBrush
+MSIMG32.dll!GradientFill
+WINSPOOL.DRV!DocumentPropertiesA
+comdlg32.dll!ChooseColorA
+ADVAPI32.dll!RegCreateKeyExA
+SHELL32.dll!Shell_NotifyIconA
+ole32.dll!CoTaskMemAlloc
+OLEAUT32.dll!ordinal:23
+COMCTL32.dll!ImageList_Destroy
