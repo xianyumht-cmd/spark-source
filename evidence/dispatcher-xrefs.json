@@ -1,0 +1,20 @@
+{
+  "dispatcher_va": "0x58b0b0d",
+  "hit_count": 14,
+  "hits": [
+    {"section":".5497y","va":"0x595d9dd","file_offset":"0x21c99dd","preceding_24":"c4ab9489442408b80000000089442404b83ea38e05870424"},
+    {"section":".5497y","va":"0x595db56","file_offset":"0x21c9b56","preceding_24":"b6d80e896c2408bd00000000896c2404bd708f9105872c24"},
+    {"section":".5497y","va":"0x595dd04","file_offset":"0x21c9d04","preceding_24":"ac87cb89442408b80000000089442404b86ad59205870424"},
+    {"section":".5497y","va":"0x595e9c3","file_offset":"0x21ca9c3","preceding_24":"732d72897c2408bf00000000897c2404bfab9a9505873c24"},
+    {"section":".5497y","va":"0x595f2d2","file_offset":"0x21cb2d2","preceding_24":"d3add989542408ba72ca000089542404ba3ea38e05871424"},
+    {"section":".5497y","va":"0x5960cd4","file_offset":"0x21cccd4","preceding_24":"63d1a7895c2408bbc0200000895c2404bb6ad59205871c24"},
+    {"section":".5497y","va":"0x59612e7","file_offset":"0x21cd2e7","preceding_24":"d96649896c2408bd7c440000896c2404bd6ad59205872c24"},
+    {"section":".5497y","va":"0x5962296","file_offset":"0x21ce296","preceding_24":"cb4d4d896c2408bd22240000896c2404bdb7899305872c24"},
+    {"section":".5497y","va":"0x5962370","file_offset":"0x21ce370","preceding_24":"ce82cd897c2408bf382d0000897c2404bfb7899305873c24"},
+    {"section":".5497y","va":"0x59624bd","file_offset":"0x21ce4bd","preceding_24":"8b95c7894c2408b908330000894c2404b9b7899305870c24"},
+    {"section":".5497y","va":"0x5962b31","file_offset":"0x21ceb31","preceding_24":"9e09d689442408b82254000089442404b8b7899305870424"},
+    {"section":".5497y","va":"0x596367b","file_offset":"0x21cf67b","preceding_24":"ffd63a897c2408bf50990000897c2404bfb7899305873c24"},
+    {"section":".5497y","va":"0x5964b88","file_offset":"0x21d0b88","preceding_24":"070eb089442408b82022000089442404b8f1949405870424"},
+    {"section":".5497y","va":"0x5966f95","file_offset":"0x21d2f95","preceding_24":"32d8bb895c2408bba6370000895c2404bbab9a9505871c24"}
+  ]
+}
