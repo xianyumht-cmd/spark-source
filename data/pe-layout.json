@@ -1,0 +1,26 @@
+{
+  "file_size": 35614720,
+  "pe_offset": 272,
+  "machine": "0x014c",
+  "sections": 8,
+  "timestamp": 1785881583,
+  "entry_rva": 55064608,
+  "entry_va": 59258912,
+  "image_base": 4194304,
+  "section_alignment": 4096,
+  "file_alignment": 4096,
+  "size_image": 89698304,
+  "size_headers": 4096,
+  "section_table": [
+    {"name":".text","virtual_size":1797274,"virtual_address":4096,"raw_size":0,"raw_pointer":0,"characteristics":"0x60000020","entropy":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
+    {"name":".rdata","virtual_size":5369910,"virtual_address":1802240,"raw_size":0,"raw_pointer":0,"characteristics":"0x40000040","entropy":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
+    {"name":".data","virtual_size":571345,"virtual_address":7176192,"raw_size":0,"raw_pointer":0,"characteristics":"0xc0000040","entropy":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
+    {"name":".9z","virtual_size":974848,"virtual_address":7749632,"raw_size":974848,"raw_pointer":4096,"characteristics":"0x60000060","entropy":7.293155435793172,"sha256":"1b1ab5829401d77d7b352f3a379047ccc2a5dd56ed8dbf03581402b742aca192"},
+    {"name":".q896d","virtual_size":4096,"virtual_address":8724480,"raw_size":0,"raw_pointer":0,"characteristics":"0xc0000040","entropy":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
+    {"name":".zng","virtual_size":46333952,"virtual_address":8728576,"raw_size":0,"raw_pointer":0,"characteristics":"0x60000020","entropy":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
+    {"name":".5497y","virtual_size":34500608,"virtual_address":55062528,"raw_size":34500608,"raw_pointer":978944,"characteristics":"0x60000020","entropy":7.88152198252725,"sha256":"2eb7d4f3a9bdcaf94aff552fe4c44047fd792969f786a96633654972ad654989"},
+    {"name":".rsrc","virtual_size":135168,"virtual_address":89563136,"raw_size":135168,"raw_pointer":35479552,"characteristics":"0x40000040","entropy":3.4449718142813412,"sha256":"5c1bf9c2d99d5a1c3753a9c6457d71d6d5f1b87fdbc17201708f555291153105"}
+  ],
+  "sha256": "8ba74270a14218bd0713a31bd4601d69824b742770c641c346b199239362e2d8",
+  "md5": "162831ceba8ffb3ed573f0306455d559"
+}
