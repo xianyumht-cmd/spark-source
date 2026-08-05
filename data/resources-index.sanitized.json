@@ -1,0 +1,23 @@
+{
+  "resource_rva": 89563136,
+  "resource_size": 131112,
+  "items": [
+    {"path":[3,1,2052],"type_name":"ICON","rva":89564092,"file_offset":35480508,"size":744,"sha256":"c70bbabb35024b71265ad0cbc6b6553146b8417e6469c7031b292f87ac7f027c","file":"ICON_3_1_2052.icoimg"},
+    {"path":[3,2,2052],"type_name":"ICON","rva":89564836,"file_offset":35481252,"size":296,"sha256":"bfd6b9443d835d48f4872879c901fd73a9cb1dcd85ceb44ab769410cf282b756","file":"ICON_3_2_2052.icoimg"},
+    {"path":[3,3,0],"type_name":"ICON","rva":89565132,"file_offset":35481548,"size":5196,"sha256":"2f07e6657a3da92ffe152da949cf06cac75a93c143320ae54c8ee2ba50c69657","file":"ICON_3_3_0.icoimg"},
+    {"path":[3,4,0],"type_name":"ICON","rva":89570328,"file_offset":35486744,"size":38056,"sha256":"84e69b407b0da62fcaa39d74a8f13bf33ce9947a0c02f0c81ac33696ea9a54db","file":"ICON_3_4_0.icoimg"},
+    {"path":[3,5,0],"type_name":"ICON","rva":89608384,"file_offset":35524800,"size":26600,"sha256":"478830c177974d7dfc73a02135fd6245bdb999f7f3a7951ecf413e49c9ea5c32","file":"ICON_3_5_0.icoimg"},
+    {"path":[3,6,0],"type_name":"ICON","rva":89634984,"file_offset":35551400,"size":21640,"sha256":"cf73ade8a5236901b62625406aab1b39aff96bb3c0f100947e9bcb8e4ed83a78","file":"ICON_3_6_0.icoimg"},
+    {"path":[3,7,0],"type_name":"ICON","rva":89656624,"file_offset":35573040,"size":16936,"sha256":"f9dbaffc62b4f8808ce9c2836dcd694f2ae30a0255898c89a26ccd42e2c9b131","file":"ICON_3_7_0.icoimg"},
+    {"path":[3,8,0],"type_name":"ICON","rva":89673560,"file_offset":35589976,"size":9640,"sha256":"2b1351b482a12b096b57f8def843042501d00edfee7471f3b7a4b75a7987a418","file":"ICON_3_8_0.icoimg"},
+    {"path":[3,9,0],"type_name":"ICON","rva":89683200,"file_offset":35599616,"size":4264,"sha256":"029207fc02503fa7203d78e9392fbde891d991502a4abed02d2bb5fd3a766587","file":"ICON_3_9_0.icoimg"},
+    {"path":[3,10,0],"type_name":"ICON","rva":89687464,"file_offset":35603880,"size":2440,"sha256":"79bf449afbe34bf6133f0010cdffb6eb09ea86ee21f8e2360eb6394f291865c0","file":"ICON_3_10_0.icoimg"},
+    {"path":[3,11,0],"type_name":"ICON","rva":89689904,"file_offset":35606320,"size":1720,"sha256":"c8887c3532dc654108cc0e5511460b22ddca164da43dec6b4107bb9f1a82df76","file":"ICON_3_11_0.icoimg"},
+    {"path":[3,12,0],"type_name":"ICON","rva":89691624,"file_offset":35608040,"size":1128,"sha256":"2724d2d336b606e37a6c4261860bc5299c6fd708d0d11ae378629bc79291bc32","file":"ICON_3_12_0.icoimg"},
+    {"path":[14,"DEFAULT_ICON",0],"type_name":"GROUP_ICON","rva":89692752,"file_offset":35609168,"size":146,"sha256":"9f45344d5348e62ba8697a353cc9a323b6fea350863ba7ac6ff91b50dfe92a96","file":"GROUP_ICON_14_DEFAULT_ICON_0.groupicon"},
+    {"path":[14,1151,2052],"type_name":"GROUP_ICON","rva":89692900,"file_offset":35609316,"size":20,"sha256":"a0c9d012e2bf6b2fe05c2d97cb5594d97cf2f539e97935c12abd7a3562f4d9bf","file":"GROUP_ICON_14_1151_2052.groupicon"},
+    {"path":[14,1152,2052],"type_name":"GROUP_ICON","rva":89692920,"file_offset":35609336,"size":20,"sha256":"6bcce1250099cc08d574211b3debabb0244cd2641f6d960538e7ddc97d319164","file":"GROUP_ICON_14_1152_2052.groupicon"},
+    {"path":[16,1,2052],"type_name":"VERSION","rva":89692940,"file_offset":35609356,"size":608,"sha256":"4419038ea1c96dac2de0f31ccf72d599797a965eee417262c6003d4b7e466e18","file":"VERSION_16_1_2052.version.bin"},
+    {"path":[24,1,0],"type_name":"MANIFEST","rva":89693548,"file_offset":35609964,"size":697,"sha256":"70b7f6ec24cf159809467626ceade9ba45e1c46660c86257e85db8caa6b1926b","file":"MANIFEST_24_1_0.manifest"}
+  ]
+}
