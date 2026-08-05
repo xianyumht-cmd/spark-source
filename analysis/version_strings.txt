@@ -1,0 +1,17 @@
+VS_VERSION_INFO
+StringFileInfo
+080404B0
+FileVersion
+1.5.5.2
+FileDescription
+1.5.2B
+ProductName
+1.5.2B
+ProductVersion
+1.5.5.2
+CompanyName
+LegalCopyright
+Comments
+(http://www.eyuyan.com)
+VarFileInfo
+Translation
