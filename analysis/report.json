@@ -1,0 +1,54 @@
+{
+  "sample": {
+    "file_name": "Spark1.5.2F.exe",
+    "size": 35614720,
+    "md5": "162831ceba8ffb3ed573f0306455d559",
+    "sha256": "8ba74270a14218bd0713a31bd4601d69824b742770c641c346b199239362e2d8"
+  },
+  "pe": {
+    "format": "PE32",
+    "machine": "0x014c",
+    "section_count": 8,
+    "timestamp_utc": "2026-08-04T22:13:03+00:00",
+    "image_base": "0x00400000",
+    "entry_rva": "0x03483820",
+    "entry_va": "0x03883820",
+    "entry_file_offset": "0x000ef820",
+    "entry_bytes": "e99ba10d02cccccccccccccccccccccc",
+    "entry_jump_target_va": "0x0595d9c0",
+    "size_of_image": 89698304,
+    "subsystem": 2,
+    "clr_directory": {"rva": 0, "size": 0}
+  },
+  "sections": [
+    {"index":0,"name":".text","virtual_address":4096,"virtual_size":1797274,"raw_offset":0,"raw_size":0,"characteristics":1610612768,"entropy":0.0,"nonzero_ratio":0.0},
+    {"index":1,"name":".rdata","virtual_address":1802240,"virtual_size":5369910,"raw_offset":0,"raw_size":0,"characteristics":1073741888,"entropy":0.0,"nonzero_ratio":0.0},
+    {"index":2,"name":".data","virtual_address":7176192,"virtual_size":571345,"raw_offset":0,"raw_size":0,"characteristics":3221225536,"entropy":0.0,"nonzero_ratio":0.0},
+    {"index":3,"name":".9z","virtual_address":7749632,"virtual_size":974848,"raw_offset":4096,"raw_size":974848,"characteristics":1610612832,"entropy":7.293155,"nonzero_ratio":0.890579},
+    {"index":4,"name":".q896d","virtual_address":8724480,"virtual_size":4096,"raw_offset":0,"raw_size":0,"characteristics":3221225536,"entropy":0.0,"nonzero_ratio":0.0},
+    {"index":5,"name":".zng","virtual_address":8728576,"virtual_size":46333952,"raw_offset":0,"raw_size":0,"characteristics":1610612768,"entropy":0.0,"nonzero_ratio":0.0},
+    {"index":6,"name":".5497y","virtual_address":55062528,"virtual_size":34500608,"raw_offset":978944,"raw_size":34500608,"characteristics":1610612768,"entropy":7.881522,"nonzero_ratio":0.987633},
+    {"index":7,"name":".rsrc","virtual_address":89563136,"virtual_size":135168,"raw_offset":35479552,"raw_size":135168,"characteristics":1073741888,"entropy":3.444972,"nonzero_ratio":0.422141}
+  ],
+  "dynamic_imports_xor11": {
+    "count": 514,
+    "dll_counts": {
+      "ADVAPI32.dll": 15,
+      "AVIFIL32.dll": 2,
+      "COMCTL32.dll": 12,
+      "comdlg32.dll": 6,
+      "GDI32.dll": 97,
+      "iphlpapi.dll": 1,
+      "KERNEL32.dll": 156,
+      "MSIMG32.dll": 1,
+      "MSVFW32.dll": 1,
+      "ole32.dll": 22,
+      "SHELL32.dll": 3,
+      "USER32.dll": 177,
+      "WINMM.dll": 18,
+      "WINSPOOL.DRV": 3
+    }
+  },
+  "resource_count": 17,
+  "resource_types": {"ICON":12,"GROUP_ICON":3,"VERSION":1,"MANIFEST":1}
+}
